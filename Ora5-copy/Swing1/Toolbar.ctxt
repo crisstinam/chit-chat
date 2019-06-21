@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Toolbar
+comment1.params=
+comment1.target=Toolbar()
+comment2.params=textPanel
+comment2.target=void\ setTextPanel(TextPanel)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

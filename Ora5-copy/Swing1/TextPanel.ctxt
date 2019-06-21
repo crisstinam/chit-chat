@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TextPanel
+comment1.params=
+comment1.target=TextPanel()
+comment2.params=text
+comment2.target=void\ appendText(java.lang.String)
+numComments=3

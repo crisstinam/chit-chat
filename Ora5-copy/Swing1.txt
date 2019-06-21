@@ -1,0 +1,6 @@
+Swing1
+
+- App2 is the main;
+- MainFrame2 is the GUI;
+- Toolbar contains the textfield (that gets input text) and send button(that sends text to the chat)
+- TextPanel is the chat history
